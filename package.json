@@ -2,6 +2,7 @@
   "name": "form-workflow",
   "version": "1.0.0",
   "description": "Formik workflow engine for conditional, nested multi-step forms",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "sideEffects": false,
   "repository": {

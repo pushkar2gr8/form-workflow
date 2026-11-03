@@ -88,3 +88,7 @@ npm publish
 ```
 
 The package builds ESM, CommonJS, and declaration files into `dist/`. React, React DOM, and Formik are peer dependencies, so applications should install compatible versions themselves.
+
+## License
+
+This package uses a proprietary, non-resale license, not an open-source license. You may use it in personal or commercial applications, but may not sell or sublicense the library as a standalone product. See [LICENSE](LICENSE) for the full terms.
