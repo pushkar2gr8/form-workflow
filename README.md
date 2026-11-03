@@ -60,6 +60,17 @@ const nodes = [
 
 See the exported TypeScript types for custom layouts and typed workflow definitions.
 
+## Demo app
+
+Run the interactive workspace setup demo from this repository:
+
+```sh
+npm install
+npm run dev
+```
+
+To create a production build of the demo, run `npm run build:demo`. The app imports the library through its package exports and is not included in the published npm package.
+
 ## Exports
 
 - `FormWorkflow` runs a workflow inside Formik.
