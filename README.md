@@ -1,5 +1,8 @@
 # form-workflow
 
+[![npm version](https://img.shields.io/npm/v/form-workflow)](https://www.npmjs.com/package/form-workflow)
+[![npm downloads](https://img.shields.io/npm/dm/form-workflow)](https://www.npmjs.com/package/form-workflow)
+
 A Formik-based React workflow engine for nested, conditional multi-step forms. Supports response-driven routes, per-step validation, async execution, and AND/OR splits.
 
 ## Install
