@@ -94,4 +94,4 @@ The package builds ESM, CommonJS, and declaration files into `dist/`. React, Rea
 
 ## License
 
-This package uses a proprietary, non-resale license, not an open-source license. You may use it in personal or commercial applications, but may not sell or sublicense the library as a standalone product. See [LICENSE](LICENSE) for the full terms.
+The 1.0.1 source edition is licensed under the MIT License. See [LICENSE](LICENSE) for the full terms. Later commercial features are maintained separately in the private `form-workflow-pro` repository.
